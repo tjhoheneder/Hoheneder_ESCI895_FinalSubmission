@@ -1,0 +1,11 @@
+name: Tim-environment
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - Basemap
+  - Path
+  - pip:
+    - datetime
+    - timedelta
+ 
